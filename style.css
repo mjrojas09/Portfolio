@@ -160,7 +160,7 @@ section {
 }
 
 .socials {
-    display: flez;
+    display: flex;
     gap: 2rem;
 }
 
